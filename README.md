@@ -1,3 +1,8 @@
+# Overview
+This project is learning redux and is for reference only. It is not the best project or very descriptive as I have those in a document elsewhere. I just wanted to store this on Github for reference anywhere I need it.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
