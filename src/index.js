@@ -10,8 +10,8 @@ import counterReducer from './Store/reducers/counter';
 import resultReducer from './Store/reducers/result';
 
 const rootReducer = combineReducers({
-    counter: counterReducer,
-    result: resultReducer
+    ctr: counterReducer,
+    res: resultReducer
 });
 
 const store = createStore(rootReducer);
